@@ -276,6 +276,12 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 5px;
    margin-left: 5px;
 }
+
+#resume .workroles{
+   list-style-type: disc;
+   padding-left: 1cm;
+}
+
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;

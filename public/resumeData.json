@@ -3,7 +3,7 @@
     "name":"Erick Pena",
     "occupation":"Sotware Engineer",
     "description":"I am a highly motivated student with a strong Computer Science background. I am very passionate about programming and I am always looking for new technologies to learn. Seek to pursue new position with room for advancement alongside growing team",
-    "image":"profilepic.jpg",
+    "image":"profilepic.jpeg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "erick1439@live.com",
@@ -55,13 +55,19 @@
         "company":"XI Media Labs",
         "title":"Software Developer ",
         "years":"January 2020 - Present",
-        "description":"I form part of a group of developers that is in charge to implement a cryptocurrency in a social media platform."
+        "description":"I form part of a group of developers that is in charge to implement a cryptocurrency in a social media platform.",
+        "check": ["I form part of a group of developers that is in charge to implement a cryptocurrency in a social media platform."
+        ]
       },
       {
         "company":"Universal Studios Orlando",
         "title":"Attraction Operator",
         "years":"February 2017 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know.",
+        "check": ["Deliver top quality customer service in professional manner while managing multiple tasks.",
+          "Ensure the proper use of safety practices and procedures while operating the attraction.",
+          "Evaluate and communicate with co-workers to meet goals and accomplish tasks."
+        ]
       }
     ],
     "skills":[
