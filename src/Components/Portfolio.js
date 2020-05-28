@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
+import Slider from 'react-animated-slider';
+import 'react-animated-slider/build/horizontal.css';
 
 class Portfolio extends Component {
   render() {
-
     if(this.props.data){
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
@@ -21,19 +22,24 @@ class Portfolio extends Component {
           </div>
         </div>
       })
+
+      var test = this.props.data.check.map(function(slide, index) { 
+      return (
+        <div key={index}>
+          <h2>{slide.title}</h2>
+          <div>{slide.description}</div>
+        </div>
+        )
+      })
     }
 
     return (
       <section id="portfolio">
-
       <div className="row">
-
          <div className="twelve columns collapsed">
-
             <h1><span>Projects</span></h1>
-
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                {projects}
+            <Slider>{test}</Slider>
             </div>
           </div>
       </div>
