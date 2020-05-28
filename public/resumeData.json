@@ -103,27 +103,33 @@
     "check": [
       {
         "title":"Contacts Manger",
-        "description": "This is a friendly responsive website that allows you to store all of your contacts in an organize manner. This project was developed with MongoDB, Express.js, React.js, and Node.js."
+        "description": "This is a friendly responsive website that allows you to store all of your contacts in an organize manner. This project was developed with MongoDB, Express.js, React.js, and Node.js.",
+        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg","original-thai-food.jpg"]
       },
       {
         "title":"Character Keep",
-        "description": "This forms part of a group project where the application was responsible to generate, collect, and save data from tabletop games such as Warhammer. I was in charge to create the mobile component of the interactive application on Android with the use of Java."
+        "description": "This forms part of a group project where the application was responsible to generate, collect, and save data from tabletop games such as Warhammer. I was in charge to create the mobile component of the interactive application on Android with the use of Java.",
+        "images": ["","",""]
       },
       {
         "title":"3D Cell Model",
-        "description": "Develop in JavaScript with the use of Three.js, HTML, CSS, and Vectary. This is an interactive 3d project that allows users to learn the anatomy of an animal cell."
+        "description": "Develop in JavaScript with the use of Three.js, HTML, CSS, and Vectary. This is an interactive 3d project that allows users to learn the anatomy of an animal cell.",
+        "images": ["","",""]
       },
       {
         "title":"Atlantic Trails Resort",
-        "description": "Developed with the use of HTML, CSS, JavaScript, and jQuery. This is a friendly responsive website used as the main online tool to represent a vacation Resort."
+        "description": "Developed with the use of HTML, CSS, JavaScript, and jQuery. This is a friendly responsive website used as the main online tool to represent a vacation Resort.",
+        "images": ["","",""]
       },
       {
         "title":"PL/0 Compiler",
-        "description": "Develop in C, this program takes PL/0 instructions then it reads them character by character detecting any syntax errors, then it will parse it, and output the result from many of the logistics operations that was able to perform."
+        "description": "Develop in C, this program takes PL/0 instructions then it reads them character by character detecting any syntax errors, then it will parse it, and output the result from many of the logistics operations that was able to perform.",
+        "images": ["","",""]
       },
       {
         "title":"React Native Login System",
-        "description": ""
+        "description": "",
+        "images": ["","",""]
       }
     ],
     "projects": [
