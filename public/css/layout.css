@@ -424,16 +424,25 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
+   padding-top: 55px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   font: 28px/28px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
    color: black;
+}
+
+.projectcontainer {
+   text-align: center;
+   padding: 0 5cm;
+}
+
+.projectcontainer h2 {
+   font-size: 24px;
 }
 
 /* Portfolio Content */

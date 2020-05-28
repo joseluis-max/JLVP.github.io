@@ -25,7 +25,7 @@ class Portfolio extends Component {
 
       var test = this.props.data.check.map(function(slide, index) { 
       return (
-        <div key={index}>
+        <div key={index} className="projectcontainer">
           <h2>{slide.title}</h2>
           <div>{slide.description}</div>
         </div>
@@ -35,13 +35,13 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-      <div className="row">
-         <div className="twelve columns collapsed">
-            <h1><span>Projects</span></h1>
-            <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+      <div>
+        <div>
+          <h1><span>Projects</span></h1>
+          <div>
             <Slider>{test}</Slider>
-            </div>
           </div>
+        </div>
       </div>
    </section>
     );
