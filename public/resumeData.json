@@ -104,7 +104,7 @@
       {
         "title":"Contacts Manger",
         "description": "This is a friendly responsive website that allows you to store all of your contacts in an organize manner. This project was developed with MongoDB, Express.js, React.js, and Node.js.",
-        "images": ["contactsManager1.png","contactsManager2.png","contactsManager3.png"],
+        "images": ["contactsManager1.png","contactsManager2.png"],
         "size": "470"
       },
       {
@@ -128,7 +128,7 @@
       {
         "title":"PL/0 Compiler",
         "description": "Develop in C, this program takes PL/0 instructions then it reads them character by character detecting any syntax errors, then it will parse it, and output the result from many of the logistics operations that was able to perform.",
-        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg","original-thai-food.jpg"],
+        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg"],
         "size": "470"
       },
       {
