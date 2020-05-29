@@ -109,7 +109,7 @@
       {
         "title":"Character Keep",
         "description": "This forms part of a group project where the application was responsible to generate, collect, and save data from tabletop games such as Warhammer. I was in charge to create the mobile component of the interactive application on Android with the use of Java.",
-        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg","original-thai-food.jpg"]
+        "images": ["rpg2.png","rpg4.png","rpg3.png"]
       },
       {
         "title":"3D Cell Model",
@@ -129,7 +129,7 @@
       {
         "title":"React Native Login System",
         "description": "",
-        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg","original-thai-food.jpg"]
+        "images": ["reactNativeLogin1.png","reactNativeLogin2.png","reactNativeLogin3.png"]
       }
     ]
   }
