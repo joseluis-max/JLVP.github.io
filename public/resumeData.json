@@ -104,32 +104,38 @@
       {
         "title":"Contacts Manger",
         "description": "This is a friendly responsive website that allows you to store all of your contacts in an organize manner. This project was developed with MongoDB, Express.js, React.js, and Node.js.",
-        "images": ["contactsManager1.png","contactsManager2.png","contactsManager3.png"]
+        "images": ["contactsManager1.png","contactsManager2.png","contactsManager3.png"],
+        "size": "470"
       },
       {
         "title":"Character Keep",
         "description": "This forms part of a group project where the application was responsible to generate, collect, and save data from tabletop games such as Warhammer. I was in charge to create the mobile component of the interactive application on Android with the use of Java.",
-        "images": ["rpg2.png","rpg4.png","rpg3.png"]
+        "images": ["rpg4.png","rpg3.png"],
+        "size": "470"
       },
       {
         "title":"3D Cell Model",
         "description": "Develop in JavaScript with the use of Three.js, HTML, CSS, and Vectary. This is an interactive 3d project that allows users to learn the anatomy of an animal cell.",
-        "images": ["3dCell1.png","3dCell2.png","3dCell3.png"]
+        "images": ["3dCell1.png","3dCell2.png"],
+        "size": "470"
       },
       {
         "title":"Atlantic Trails Resort",
         "description": "Developed with the use of HTML, CSS, JavaScript, and jQuery. This is a friendly responsive website used as the main online tool to represent a vacation Resort.",
-        "images": ["atlantic1.png","atlantic2.png","atlantic3.png"]
+        "images": ["atlantic1.png","atlantic2.png"],
+        "size": "470"
       },
       {
         "title":"PL/0 Compiler",
         "description": "Develop in C, this program takes PL/0 instructions then it reads them character by character detecting any syntax errors, then it will parse it, and output the result from many of the logistics operations that was able to perform.",
-        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg","original-thai-food.jpg"]
+        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg","original-thai-food.jpg"],
+        "size": "470"
       },
       {
         "title":"React Native Login System",
-        "description": "",
-        "images": ["reactNativeLogin1.png","reactNativeLogin2.png","reactNativeLogin3.png"]
+        "description": "This is an example of a project that I decided to create to explore and learn more about the React Native. To authenticate users I am using Google's Firebase tools to get familiar with their authentication system.",
+        "images": ["reactNativeLogin1.png","reactNativeLogin2.png","reactNativeLogin3.png"],
+        "size": "200"
       }
     ]
   }

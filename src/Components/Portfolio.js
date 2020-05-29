@@ -9,7 +9,7 @@ class Portfolio extends Component {
       var slides = this.props.data.check.map(function(slide, index) { 
         var examples = slide.images.map(function(image, index) {
           return (
-            <img key={index} src={'images/portfolio/' + image} alt={slide.title + " example #" + index} height="250" width="250"/> 
+            <img key={index} src={'images/portfolio/' + image} alt={slide.title + " example #" + index} height={slide.size} width={slide.size}/> 
           )
         })
 
