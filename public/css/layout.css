@@ -432,13 +432,13 @@ ul#nav li.current a { color: #F06000; }
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
-   margin-bottom: 48px;
+   margin-bottom: 30px;
    color: black;
 }
 
 .projectcontainer {
    text-align: center;
-   padding: 0 3.5cm;
+   padding: 0 2.5cm;
 }
 
 .projectcontainer h2 {
@@ -580,6 +580,11 @@ ul#nav li.current a { color: #F06000; }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
+@media only screen and (max-width: 460px) {
+   img {
+     display: none;
+   }
+}
 
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */

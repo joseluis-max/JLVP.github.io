@@ -128,7 +128,7 @@
       {
         "title":"PL/0 Compiler",
         "description": "Develop in C, this program takes PL/0 instructions then it reads them character by character detecting any syntax errors, then it will parse it, and output the result from many of the logistics operations that was able to perform.",
-        "images": ["canadian-wanderlust.jpg","canadian-wanderlust.jpg"],
+        "images": [],
         "size": "470"
       },
       {
