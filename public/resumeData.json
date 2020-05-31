@@ -41,13 +41,13 @@
         "school":"University of Central Florida",
         "degree":"Bachelor of Computer Science",
         "graduated":"August 2020",
-        "description":"UCF Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"I have been part of the Dean’s List multiple occasions for maintaining a GPA above 3.8."
       },
       {
         "school":"Valencia College",
         "degree":"Associates of Science: Computer Science",
         "graduated":"May 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"This is the first school I attended toward my degree and where I learned most of my programming fundamentals."
       }
     ],
     "work":[
@@ -110,7 +110,7 @@
       {
         "title":"Character Keep",
         "description": "This forms part of a group project where the application was responsible to generate, collect, and save data from tabletop games such as Warhammer. I was in charge to create the mobile component of the interactive application on Android with the use of Java.",
-        "images": ["rpg4.png","rpg3.png"],
+        "images": ["characterKeeper1.png","characterKeeper2.png"],
         "size": "470"
       },
       {
