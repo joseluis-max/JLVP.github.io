@@ -9,13 +9,12 @@
     "email": "erick1439@live.com",
     "phone": "(845)-461-9811",
     "address":{
-      "street":"7101 Budapest Way",
       "city":"Orlando",
       "state":"FL",
       "zip": "32822"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"resume.pdf",
+    "website": "https://www.erick-pena.com",
+    "resumedownload":"Resume.pdf",
     "social":[
       {
         "name":"linkedin",
