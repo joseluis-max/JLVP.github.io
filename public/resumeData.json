@@ -1,10 +1,10 @@
 {
-  "main": {
+  "main": { 
     "name":"Erick Pena",
     "occupation":"Sotware Engineer",
     "description":"I am a highly motivated student with a strong Computer Science background. I am very passionate about programming and I am always looking for new technologies to learn. Seek to pursue new position with room for advancement alongside growing team",
     "image":"profilepic.jpeg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am an enthusiastic person with a great passion for programming. This year I am graduating from the University of Central Florida with a bachelor’s degree in computer science and I think I am ready to put all of my learned skills to practice. Even though this is my last year as a student, I know there is a lot of new concepts and technologies that can be learned which make me see the future with excitement. Apart from programming some of the activities that keep me busy are learning to play the guitar and taking Portuguese lessons. Feel free to check my work and if you have any question don't hesitate to contact me.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "erick1439@live.com",
     "phone": "(845)-461-9811",
