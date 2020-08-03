@@ -52,26 +52,27 @@
     "work":[
       {
         "company":"XI Media Labs",
-        "title":"Software Developer ",
+        "title":"Software Developer Intern",
         "years":"January 2020 - Present",
-        "descriptions": ["Developed a cryptocurrency for a social media platform.",
-          "Collaborated with multiple developers on different tasks to complete milestones in time"
+        "descriptions": ["Collaborated in the creation of a cryptocurrency for a social media platform",
+          "Tested and debugged programs to make sure they were ready before deployment",
+          "Participated with multiple developers on different tasks to complete milestones in time"
         ]
       },
       {
         "company":"Universal Studios Orlando",
         "title":"Attraction Operator",
         "years":"February 2017 - Present",
-        "descriptions": ["Deliver top quality customer service in professional manner while managing multiple tasks.",
-          "Ensure the proper use of safety practices and procedures while operating the attraction.",
-          "Evaluate and communicate with co-workers to meet goals and accomplish tasks."
+        "descriptions": ["Deliver top quality customer service in professional manner while managing multiple tasks",
+          "Ensure the proper use of safety practices and procedures while operating the attraction",
+          "Evaluate and communicate with co-workers to meet goals and accomplish tasks"
         ]
       }
     ],
     "skills":[
       {
         "name":"Java",
-        "level":"90%"
+        "level":"96%"
       },
       {
         "name":"JavaScript",
@@ -115,7 +116,7 @@
       },
       {
         "title":"3D Cell Model",
-        "description": "Develop in JavaScript with the use of Three.js, HTML, CSS, and Vectary. This is an interactive 3d project that allows users to learn the anatomy of an animal cell.",
+        "description": "Develop in JavaScript with the help of Three.js, HTML, CSS, and Vectary. This is an interactive 3d project that allows users to learn the anatomy of an animal cell.",
         "images": ["3dCell1.png","3dCell2.png"],
         "size": "470"
       },
