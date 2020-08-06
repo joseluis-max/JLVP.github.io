@@ -133,6 +133,12 @@
         "size": "470"
       },
       {
+        "title":"Durable Queue for Non-Volatile Memory:",
+        "description": "This is part of a published research report that explains the scalability from the implementation of a durable queue for non-volatile memory created by my colleagues and me.",
+        "images": [],
+        "size": "470"
+      },
+      {
         "title":"React Native Login System",
         "description": "This is an example of a project that I decided to create to explore and learn more about the React Native. To authenticate users I am using Google's Firebase tools to get familiar with their authentication system.",
         "images": ["reactNativeLogin1.png","reactNativeLogin2.png","reactNativeLogin3.png"],
