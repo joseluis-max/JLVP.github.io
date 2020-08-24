@@ -54,9 +54,18 @@
         "company":"XI Media Labs",
         "title":"Software Developer Intern",
         "years":"January 2020 - Present",
-        "descriptions": ["Collaborated in the creation of a cryptocurrency for a social media platform",
+        "descriptions": ["Collaborated to develop a digital currency for a dating app called Flairr",
           "Tested and debugged programs to make sure they were ready before deployment",
           "Participated with multiple developers on different tasks to complete milestones in time"
+        ]
+      },
+      {
+        "company":"Self Employed",
+        "title":"Computer Science and Math Tutor",
+        "years":"January 2019 – March 2020",
+        "descriptions": ["Worked closely with UCF students in one-to-one sessions to provide supplemental tutoring",
+          "Elaborated different lessons plans to accommodate students at different levels and improve effectiveness",
+          "Tutored courses such as Data Structures and Algorithms, Intro to C programming, OOP, and Calculus"
         ]
       },
       {
