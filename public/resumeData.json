@@ -51,9 +51,18 @@
     ],
     "work":[
       {
+        "company":"Tata Consultancy Services",
+        "title":"Software Engineer",
+        "years":"January 2021 - Present",
+        "descriptions": ["Develop, create, and modify software applications based on client requirements",
+          "Maintain systems by monitoring, identifying, and correcting software defects",
+          "Update knowledge and skills though external courses, manuals, and new applications"
+        ]
+      },
+      {
         "company":"XI Media Labs",
         "title":"Software Developer Intern",
-        "years":"January 2020 - Present",
+        "years":"January 2020 - August 2020",
         "descriptions": ["Collaborated to develop a digital wallet and currency for a mobile dating app called Flairr",
           "Assisted to create RESTful APIs in order to connect the mobile app and cryptocurrency network",
           "Participated with multiple developers in brainstorming future ideas and features for the mobile app"
