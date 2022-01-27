@@ -1,96 +1,67 @@
 {
   "main": { 
-    "name":"Erick Pena",
-    "occupation":"Sotware Engineer",
-    "description":"I am a highly motivated student with a strong Computer Science background. I am very passionate about programming and I am always looking for new technologies to learn. Seek to pursue a new position with room for advancement alongside a growing team.",
-    "image":"profilepic.jpeg",
-    "bio":"I am an enthusiastic person with a great passion for programming. This year I am graduating from the University of Central Florida with a bachelor’s degree in computer science and I think I am ready to put all of my learned skills to practice. Even though this is my last year as a student, I know there is a lot of new concepts and technologies that can be learned which make me see the future with excitement. Apart from programming some of the activities that keep me busy are learning to play the guitar and taking Portuguese lessons. Feel free to check my work and if you have any question don't hesitate to contact me.",
+    "name":"José Valdiviezo",
+    "occupation":"Full-stack Software Engineer",
+    "description":"Soy una apasionado por la programación, siempre en búsqueda de nuevos desafíos que me ayuden a aprender ¡¿¡y que me reten para alcanzar nuevos límites",
+    "image":"profilepic.jpg",
+    "bio":"Hola, Soy José Luis, actualmente estoy estudiando en el instituto Holberton school. Estoy terminado fundamentos de software engineer",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "erick1439@live.com",
-    "phone": "(845)-461-9811",
+    "email": "luisj.valdiviezo20@gmail.com",
+    "phone": "(+593) 984226554",
     "address":{
-      "city":"Orlando",
-      "state":"FL",
-      "zip": "32822"
+      "city":"Cuenca",
+      "state":"Ecuador",
+      "zip": ""
     },
-    "website": "https://www.erick-pena.com",
+    "website": "https://www.jlvp.com",
     "resumedownload":"resume.pdf",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/erick-pena",
+        "url":"https://www.linkedin.com/in/joseluis-max",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"https://www.instagram.com/erick1439",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/erick1439",
+        "url":"http://github.com/joseluis-max",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Some of my skill are:",
+    "skillmessage":"Algunas de mis habilidades son:",
     "education":[
       {
-        "school":"University of Central Florida",
-        "degree":"Bachelor of Computer Science",
-        "graduated":"August 2020",
-        "description":"This is the school I am currently attending and where I have been able to solidify many of my skills. Some of my favorite courses I have taken are parallel computing, computer graphics, and artificial intelligence. Also, during my time here I have been part of the Dean’s List multiple occasions for maintaining a GPA above 3.8."
+        "school":"Holberton School",
+        "degree":"Full-Stack Software Engineer",
+        "graduated":"March 2022",
+        "description":"This is the school I am currently attending and where I have been able to solidify many of my skills."
       },
       {
-        "school":"Valencia College",
-        "degree":"Associates of Science: Computer Science",
-        "graduated":"May 2018",
-        "description":"This is the first school I attended toward my degree and where I learned most of my programming fundamentals."
+        "school":"Unidad Educativa Agrónomico Salesiano",
+        "degree":"Técnico en Producciones Agropecuarias.",
+        "graduated":"July 2019",
+        "description":"Este es el instituto donde me gradue y puede solidificar mis talentos fundamentales para ir explorar el mundo y continuar con mi educación"
       }
     ],
     "work":[
       {
-        "company":"Tata Consultancy Services",
-        "title":"Software Engineer",
-        "years":"January 2021 - Present",
-        "descriptions": ["Develop, create, and modify software applications based on client requirements",
-          "Maintain systems by monitoring, identifying, and correcting software defects",
-          "Update knowledge and skills though external courses, manuals, and new applications"
-        ]
+        "company": "Salesinos Ecuador",
+        "title": "Voluntariado Social",
+        "years": "2013-PRESENTE",
+        "descriptions": ["Durante mi tiempo libre me gusta atender diferentes actividades de ayuda social, esta es una oportunidad que estado realizando desde muy temprano forjando mi caracter de buen y honesto ciudadano."]
       },
       {
-        "company":"XI Media Labs",
-        "title":"Software Developer Intern",
-        "years":"January 2020 - August 2020",
-        "descriptions": ["Collaborated to develop a digital wallet and currency for a mobile dating app called Flairr",
-          "Assisted to create RESTful APIs in order to connect the mobile app and cryptocurrency network",
-          "Participated with multiple developers in brainstorming future ideas and features for the mobile app"
-        ]
-      },
-      {
-        "company":"Self Employed",
-        "title":"Computer Science and Math Tutor",
-        "years":"January 2019 – March 2020",
-        "descriptions": ["Worked closely with UCF students in one-to-one sessions to provide supplemental tutoring",
-          "Elaborated different lessons plans to accommodate students at different levels and improve effectiveness",
-          "Tutored courses such as Data Structures and Algorithms, Intro to C programming, OOP, and Calculus"
-        ]
-      },
-      {
-        "company":"Universal Studios Orlando",
-        "title":"Attraction Operator",
-        "years":"February 2017 - Present",
-        "descriptions": ["Deliver top quality customer service in professional manner while managing multiple tasks",
-          "Ensure the proper use of safety practices and procedures while operating the attraction",
-          "Evaluate and communicate with co-workers to meet goals and accomplish tasks"
-        ]
+        "company":"McDonalds",
+        "title":"Restaurant Crew",
+        "years":"2019-2020",
+        "descriptions":["Era uno de los parrilleros mas eficiencia, y veloces, este fue el primer trabajo que tuve y me ayudo aprender el valor del trabajo"]
       }
     ],
     "skills":[
       {
         "name":"Java",
-        "level":"96%"
+        "level":"70%"
       },
       {
         "name":"JavaScript",
@@ -106,11 +77,11 @@
       },
       {
         "name":"HTML & CSS",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Git",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"Microsoft Office",
