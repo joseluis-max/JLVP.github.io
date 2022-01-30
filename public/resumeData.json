@@ -2,12 +2,12 @@
   "main": { 
     "name":"José Valdiviezo",
     "occupation":"Full-stack Software Engineer",
-    "description":"Soy una apasionado por la programación, siempre en búsqueda de nuevos desafíos que me ayuden a aprender ¡¿¡y que me reten para alcanzar nuevos límites",
+    "description":"Passionate for the code in every one of its forms",
     "image":"profilepic.jpg",
-    "bio":"Hola, Soy José Luis, actualmente estoy estudiando en el instituto Holberton school. Estoy terminado fundamentos de software engineer",
+    "bio":"I am currently finishing the Full-stack Software Engineer program at Holberton. I've been learning programming since I was 18 years old in a self-taught way and taking courses at Platzi, looking for my first opportunity in this wonderful software industry. ",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "luisj.valdiviezo20@gmail.com",
-    "phone": "(+593) 984226554",
+    "phone": "(+593) 0984226554",
     "address":{
       "city":"Cuenca",
       "state":"Ecuador",
@@ -29,51 +29,45 @@
     ]
   },
   "resume":{
-    "skillmessage":"Algunas de mis habilidades son:",
+    "skillmessage":"Some of my skills are:",
     "education":[
       {
         "school":"Holberton School",
         "degree":"Full-Stack Software Engineer",
-        "graduated":"March 2022",
-        "description":"This is the school I am currently attending and where I have been able to solidify many of my skills."
-      },
-      {
-        "school":"Unidad Educativa Agrónomico Salesiano",
-        "degree":"Técnico en Producciones Agropecuarias.",
-        "graduated":"July 2019",
-        "description":"Este es el instituto donde me gradue y puede solidificar mis talentos fundamentales para ir explorar el mundo y continuar con mi educación"
+        "graduated":"In Proccess",
+        "description": ["Holberton School is a computer science and software academy with an intensive program, project-based and peer learning enviroment."]
       }
     ],
     "work":[
       {
-        "company": "Salesinos Ecuador",
-        "title": "Voluntariado Social",
-        "years": "2013-PRESENTE",
-        "descriptions": ["Durante mi tiempo libre me gusta atender diferentes actividades de ayuda social, esta es una oportunidad que estado realizando desde muy temprano forjando mi caracter de buen y honesto ciudadano."]
+        "company": "Salesians Ecuador",
+        "title": "Volunteer",
+        "years": "Agu 2019 | Sep 2020",
+        "descriptions": ["I was part of volunteering work through the Salesian community of Taisha. Some of my duties were organizing recreational, educational, and spiritual activities for children and teenagers from different communities of the oriental communities of Ecuador. This was an enriching experience that allows me to grow as a person"]
       },
       {
         "company":"McDonalds",
         "title":"Restaurant Crew",
-        "years":"2019-2020",
-        "descriptions":["Era uno de los parrilleros mas eficiencia, y veloces, este fue el primer trabajo que tuve y me ayudo aprender el valor del trabajo"]
+        "years":"Jul 2018 | Jun 2019",
+        "descriptions":["This was my first job which allowed me to learn the values of work and work with teams. I learned to adapt to the stressful situations and collaborate with my teammates to produce a better outcome."]
       }
     ],
     "skills":[
-      {
-        "name":"Java",
-        "level":"70%"
-      },
       {
         "name":"JavaScript",
         "level":"85%"
       },
       {
         "name":"C",
-        "level":"75%"
+        "level":"80%"
       },
       {
-        "name":"Mern Stack",
-        "level":"70%"
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "React",
+        "level": "70%"
       },
       {
         "name":"HTML & CSS",
@@ -92,46 +86,40 @@
   "portfolio":{
     "check": [
       {
-        "title":"Contacts Manger",
-        "description": "This is a friendly responsive website that allows you to store all of your contacts in an organize manner. This project was developed with MongoDB, Express.js, React.js, and Node.js.",
-        "images": ["contactsManager1.png","contactsManager2.png"],
+        "title":"Where in the world ?",
+        "description": "This is a friendly responsive website that allows you find information about any country in the world. This project was developed with Html, Sass, JS",
+        "images": ["wiw1.png","wiw2.png"],
         "size": "470"
       },
       {
-        "title":"Character Keep",
-        "description": "This forms part of a group project where the application was responsible to generate, collect, and save data from tabletop games such as Warhammer. I was in charge to create the mobile component of the interactive application on Android with the use of Java.",
-        "images": ["characterKeeper1.png","characterKeeper2.png"],
+        "title":"Space Tourism",
+        "description": "This page web was a fronted mentor challenger for practice html, css(sass) and JS. Show information about Nasa astronaunt, some planets, some launch vehicles. It's responsive design in the mayor of movil devices.",
+        "images": ["st1.png","st2.png"],
         "size": "470"
       },
       {
-        "title":"3D Cell Model",
-        "description": "Develop in JavaScript with the help of Three.js, HTML, CSS, and Vectary. This is an interactive 3d project that allows users to learn the anatomy of an animal cell.",
-        "images": ["3dCell1.png","3dCell2.png"],
+        "title":"Rock Papper and Scissors",
+        "description": "This web page emulate the rock papper and scissors game. Has two mode: classic -> rock, papper, and scissors and bonus -> rock, papper, scissors, lizard and spock. Was make with React, sass.",
+        "images": ["rps1.png","rps2.png"],
         "size": "470"
       },
       {
-        "title":"Atlantic Trails Resort",
-        "description": "Developed with the use of HTML, CSS, JavaScript, and jQuery. This is a friendly responsive website used as the main online tool to represent a vacation Resort.",
-        "images": ["atlantic1.png","atlantic2.png"],
+        "title": "Weather Web",
+        "description": "Here you can see the weather, and news of your city, was develop in associed with Erick Peña",
+        "images": [
+          "w1.png",
+          "w2.png"
+        ],
         "size": "470"
       },
       {
-        "title":"PL/0 Compiler",
-        "description": "Develop in C, this program takes PL/0 instructions then it reads them character by character detecting any syntax errors, then it will parse it, and output the result from many of the logistics operations that was able to perform.",
-        "images": [],
+        "title": "Simple Shell",
+        "description": "This project is carried out in order to test all the knowledge obtained throughout the program, we must make our own command reader (Shell) and understand in depth all the processes that are executed when an order is given to the terminal .",
+        "images": [
+          "shell1.png",
+          "shell2.png"
+        ],
         "size": "470"
-      },
-      {
-        "title":"Durable Queue for Non-Volatile Memory:",
-        "description": "This is part of a published research report that explains the scalability from the implementation of a durable queue for non-volatile memory created by my colleagues and me.",
-        "images": [],
-        "size": "470"
-      },
-      {
-        "title":"React Native Login System",
-        "description": "This is an example of a project that I decided to create to explore and learn more about the React Native. To authenticate users I am using Google's Firebase tools to get familiar with their authentication system.",
-        "images": ["reactNativeLogin1.png","reactNativeLogin2.png","reactNativeLogin3.png"],
-        "size": "200"
       }
     ]
   }
