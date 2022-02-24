@@ -536,6 +536,10 @@ ul#nav li.current a {
    font-size: 20px;
 }
 
+.projectcontainer div {
+   color: #000;
+}
+
 .projectexamples img {
    margin: 30px;
 }
