@@ -35,10 +35,10 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #fff url(../images/header-background.jpg) no-repeat top center;
-   background-position: 550px 0px;
-   background-size: cover !important;
-   -webkit-background-size: cover !important;
+   background: #fff url(../images/header-background.png) no-repeat top center;
+   background-position: 700px 20px;
+   background-size: 600px 600px !important;
+   -webkit-background-size: 600px 600px !important;
    /* text-align: center; */
    overflow: hidden;
 }

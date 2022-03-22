@@ -89,19 +89,22 @@
         "title":"Where in the world ?",
         "description": "This is a friendly responsive website that allows you find information about any country in the world. This project was developed with Html, Sass, JS",
         "images": ["wiw1.png","wiw2.png"],
-        "size": "470"
+        "size": "470",
+        "link":"https://github.com/joseluis-max/Where-in-he-world"
       },
       {
         "title":"Space Tourism",
         "description": "This page web was a fronted mentor challenger for practice html, css(sass) and JS. Show information about Nasa astronaunt, some planets, some launch vehicles. It's responsive design in the mayor of movil devices.",
         "images": ["st1.png","st2.png"],
-        "size": "470"
+        "size": "470",
+        "link": "https://github.com/joseluis-max/space-tourism-multi-page"
       },
       {
         "title":"Rock Papper and Scissors",
         "description": "This web page emulate the rock papper and scissors game. Has two mode: classic -> rock, papper, and scissors and bonus -> rock, papper, scissors, lizard and spock. Was make with React, sass.",
         "images": ["rps1.png","rps2.png"],
-        "size": "470"
+        "size": "470",
+        "link": "https://github.com/joseluis-max/rock-paper-scissors"
       },
       {
         "title": "Weather Web",
@@ -110,7 +113,8 @@
           "w1.png",
           "w2.png"
         ],
-        "size": "470"
+        "size": "470",
+        "link": "https://github.com/erick1439/WeatherApp"
       },
       {
         "title": "Simple Shell",
@@ -119,7 +123,8 @@
           "shell1.png",
           "shell2.png"
         ],
-        "size": "470"
+        "size": "470",
+        "link": "https://github.com/joseluis-max/simple_shell"
       }
     ]
   }
