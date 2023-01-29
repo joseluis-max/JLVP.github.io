@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joseluis-max.github.io/jlvp",
+  "homepage": "http://joseluis-max.github.io/JLVP.github.io",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
