@@ -1,8 +1,8 @@
 {
   "main": { 
     "name":"José Valdiviezo",
-    "occupation":"Full-Stack Software Engineer",
-    "description":"Full-Stack Software Engineer",
+    "occupation":"Software Engineer",
+    "description":"Software Engineer",
     "image":"profilepic.jpeg",
     "bio":"Fast learner Software developer. with project experience in frontend, and backend technologies with a DevOps approach. Strong team player who collaborates effectively. Looking to develop high-quality software implementations.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -32,53 +32,49 @@
     "skillmessage":"Some of my skills are:",
     "education":[
       {
-        "school":"Holberton School",
+        "school":"Holberton School - Specialization",
         "degree":"Full-Stack Software Engineer",
-        "graduated":"March 2022",
+        "graduated":"April 2022 - January 2023",
+        "description": ["Depth education of the most popular web technologies and practical experience with developing useful web products Modern Javascript, React / Redux, Node.js, Redis, Data privacy, Data structures, Algorithms, MySQL / MongoDB. Desktop and mobile version of websites, MySQL performance debugging, Cache from scratch, Authentication service, Background jobs system, Student dashboard in React, CRM dashboard in React"]
+      },
+      {
+        "school":"Holberton School - Foundations",
+        "degree":"Foundations Software Engineer",
+        "graduated":"June 2021 - March 2022",
         "description": ["Holberton School is a computer science and software academy with an intensive program, project-based and peer learning enviroment."]
       }
     ],
     "work":[
       {
-        "company": "Salesians Ecuador",
-        "title": "Volunteer",
-        "years": "Agu 2019 | Sep 2020",
-        "descriptions": ["I was part of volunteering work through the Salesian community of Taisha. Some of my duties were organizing recreational, educational, and spiritual activities for children and teenagers from different communities of oriental Ecuador. This was an enriching experience that allows me to grow as a person"]
-      },
-      {
-        "company":"McDonalds",
-        "title":"Restaurant Crew",
-        "years":"Jul 2018 | Jun 2019",
-        "descriptions":["This was my first job which allowed me to learn the values of work and work with teams. I learned to adapt to the stressful situations and collaborate with my teammates to produce a better outcome."]
+        "company": "Soluciones Plan B",
+        "title": "Full Stack Software Engineer",
+        "years": "November 2022 - Currently",
+        "descriptions": ["Development and maintenance web application, Cloud operator/administrator, Full stack software engineer."]
       }
     ],
     "skills":[
       {
         "name":"JavaScript",
-        "level":"85%"
+        "level":"100%"
       },
       {
         "name":"C",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "90%"
       },
       {
         "name": "React",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name":"HTML & CSS",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"Git",
-        "level":"90%"
-      },
-      {
-        "name":"Microsoft Office",
         "level":"100%"
       }
     ]
