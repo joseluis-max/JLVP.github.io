@@ -1,0 +1,127 @@
+{
+  "main": { 
+    "name":"José Valdiviezo",
+    "occupation":"Software Engineer",
+    "description":"Software Engineer",
+    "image":"profilepic.jpeg",
+    "bio":"Fast learner Software developer. with project experience in frontend, and backend technologies with a DevOps approach. Strong team player who collaborates effectively. Looking to develop high-quality software implementations.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "luisj.valdiviezo20@gmail.com",
+    "phone": "(+593) 0984226554",
+    "address":{
+      "city":"Cuenca",
+      "state":"Ecuador",
+      "zip": ""
+    },
+    "website": "https://jlvp.herokuapp.com/",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joseluis-max",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/joseluis-max",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of my skills are:",
+    "education":[
+      {
+        "school":"Holberton School - Specialization",
+        "degree":"Full-Stack Software Engineer",
+        "graduated":"April 2022 - January 2023",
+        "description": ["Depth education of the most popular web technologies and practical experience with developing useful web products Modern Javascript, React / Redux, Node.js, Redis, Data privacy, Data structures, Algorithms, MySQL / MongoDB. Desktop and mobile version of websites, MySQL performance debugging, Cache from scratch, Authentication service, Background jobs system, Student dashboard in React, CRM dashboard in React"]
+      },
+      {
+        "school":"Holberton School - Foundations",
+        "degree":"Foundations Software Engineer",
+        "graduated":"June 2021 - March 2022",
+        "description": ["Holberton School is a computer science and software academy with an intensive program, project-based and peer learning enviroment."]
+      }
+    ],
+    "work":[
+      {
+        "company": "Soluciones Plan B",
+        "title": "Full Stack Software Engineer",
+        "years": "November 2022 - Currently",
+        "descriptions": ["Development and maintenance web application, Cloud operator/administrator, Full stack software engineer."]
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"C",
+        "level":"90%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name":"HTML & CSS",
+        "level":"100%"
+      },
+      {
+        "name":"Git",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "check": [
+      {
+        "title":"Where in the world ?",
+        "description": "This is a friendly responsive website that allows you find information about any country in the world. This project was developed with Html, Sass, JS",
+        "images": ["wiw1.png","wiw2.png"],
+        "size": "470",
+        "link":"https://github.com/joseluis-max/Where-in-he-world"
+      },
+      {
+        "title":"Space Tourism",
+        "description": "This page web was a fronted mentor challenger for practice html, css(sass) and JS. Show information about Nasa astronaunt, some planets, some launch vehicles. It's responsive design in the mayor of movil devices.",
+        "images": ["st1.png","st2.png"],
+        "size": "470",
+        "link": "https://github.com/joseluis-max/space-tourism-multi-page"
+      },
+      {
+        "title":"Rock Papper and Scissors",
+        "description": "This web page emulate the rock papper and scissors game. Has two mode: classic -> rock, papper, and scissors and bonus -> rock, papper, scissors, lizard and spock. Was make with React, sass.",
+        "images": ["rps1.png","rps2.png"],
+        "size": "470",
+        "link": "https://github.com/joseluis-max/rock-paper-scissors"
+      },
+      {
+        "title": "Weather Web",
+        "description": "Here you can see the weather, and news of your city, was develop in associed with Erick Peña",
+        "images": [
+          "w1.png",
+          "w2.png"
+        ],
+        "size": "470",
+        "link": "https://github.com/erick1439/WeatherApp"
+      },
+      {
+        "title": "Simple Shell",
+        "description": "This project is carried out in order to test all the knowledge obtained throughout the program, we must make our own command reader (Shell) and understand in depth all the processes that are executed when an order is given to the terminal .",
+        "images": [
+          "shell1.png",
+          "shell2.png"
+        ],
+        "size": "470",
+        "link": "https://github.com/joseluis-max/simple_shell"
+      }
+    ]
+  }
+}
