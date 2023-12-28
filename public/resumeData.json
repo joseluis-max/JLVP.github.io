@@ -1,65 +1,76 @@
 {
-  "main": { 
-    "name":"José Valdiviezo",
-    "occupation":"Software Engineer",
-    "description":"Software Engineer",
-    "image":"profilepic.jpeg",
-    "bio":"Fast learner Software developer. with project experience in frontend, and backend technologies with a DevOps approach. Strong team player who collaborates effectively. Looking to develop high-quality software implementations.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+  "main": {
+    "name": "José Valdiviezo",
+    "occupation": "Software Engineer",
+    "description": "Software Engineer",
+    "image": "profilepic.jpeg",
+    "bio": "Adaptable and quick-learning software engineer, proven as a collaborative team player, I effectively contribute to project success. I prioritize the creation of high-quality software implementations. My commitment to continuous self-learning enhances my ability to stay at the forefront of evolving technologies and industry best practices. Eager to leverage this diverse skill set, I am enthusiastic about contributing meaningfully to innovative and challenging projects.",
     "email": "luisj.valdiviezo20@gmail.com",
     "phone": "(+593) 0984226554",
-    "address":{
-      "city":"Cuenca",
-      "state":"Ecuador",
+    "address": {
+      "city": "Cuenca",
+      "state": "Ecuador",
       "zip": ""
     },
-    "website": "https://joseluis-max.github.io/JLVP.github.io/",
-    "resumedownload":"resume.pdf",
-    "social":[
+    "website": "https://jlvp.vercel.app",
+    "resumedownload": "resume.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/joseluis-max",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joseluis-max",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"http://github.com/joseluis-max",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/joseluis-max",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Some of my skills are:",
-    "education":[
+  "resume": {
+    "skillmessage": "Some of my skills are:",
+    "education": [
       {
-        "school":"Holberton School - Specialization",
-        "degree":"Full-Stack Software Engineer",
-        "graduated":"April 2022 - January 2023",
-        "description": ["Depth education of the most popular web technologies and practical experience with developing useful web products Modern Javascript, React / Redux, Node.js, Redis, Data privacy, Data structures, Algorithms, MySQL / MongoDB. Desktop and mobile version of websites, MySQL performance debugging, Cache from scratch, Authentication service, Background jobs system, Student dashboard in React, CRM dashboard in React"]
+        "school": "Holberton School - Specialization",
+        "degree": "Full-Stack Software Engineer",
+        "graduated": "April 2022 - January 2023",
+        "description": [
+          "Depth education of the most popular web technologies and practical experience with developing useful web products Modern Javascript, React / Redux, Node.js, Redis, Data privacy, Data structures, Algorithms, MySQL / MongoDB. Desktop and mobile version of websites, MySQL performance debugging, Cache from scratch, Authentication service, Background jobs system, Student dashboard in React, CRM dashboard in React"
+        ]
       },
       {
-        "school":"Holberton School - Foundations",
-        "degree":"Foundations Software Engineer",
-        "graduated":"June 2021 - March 2022",
-        "description": ["Holberton School is a computer science and software academy with an intensive program, project-based and peer learning enviroment."]
+        "school": "Holberton School - Foundations",
+        "degree": "Foundations Software Engineer",
+        "graduated": "June 2021 - March 2022",
+        "description": [
+          "Holberton School is a computer science and software academy with an intensive program, project-based and peer learning enviroment."
+        ]
       }
     ],
-    "work":[
+    "work": [
       {
         "company": "Soluciones Plan B",
-        "title": "Full Stack Software Engineer",
-        "years": "November 2022 - Currently",
-        "descriptions": ["Development and maintenance web application, Cloud operator/administrator, Full stack software engineer."]
+        "title": "Software Engineer",
+        "years": "November 2022 - Currently 2024",
+        "descriptions": [
+          "Desing, development and maintenance of a web/desktop (electron) applications, ensuring high-quality performance and user satisfaction.",
+          "Functioned as a Cloud operator/administrator, managing and optimizing cloud resources for efficient application deployment.",
+          "Utilized Full Stack expertise to contribute to various aspects of software engineering, including front-end and back-end development.",
+          "Employed technologies such as React.js, Node.js, Express.js, Next.js, Electron.js, MySQL, PostgreSQL, MongoDB, Google Cloud, and Flutter",
+          "Maintained and optimized database structures using MySQL and MongoDB for efficient data management.",
+          "Implemented server-side logic with Node.js and Express.js to handle data processing and API interactions.",
+          "Development of responsive and dynamic user interfaces using React.js."
+        ]
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"JavaScript",
-        "level":"100%"
+        "name": "JavaScript",
+        "level": "100%"
       },
       {
-        "name":"C",
-        "level":"90%"
+        "name": "C",
+        "level": "90%"
       },
       {
         "name": "Python",
@@ -70,35 +81,64 @@
         "level": "90%"
       },
       {
-        "name":"HTML & CSS",
-        "level":"100%"
+        "name": "HTML & CSS",
+        "level": "100%"
       },
       {
-        "name":"Git",
-        "level":"100%"
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "Electron",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      },
+      {
+        "name": "Flutter",
+        "level": "70%"
+      },
+      {
+        "name": "Express JS",
+        "level": "85%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "check": [
       {
-        "title":"Where in the world ?",
+        "title": "Where in the world ?",
         "description": "This is a friendly responsive website that allows you find information about any country in the world. This project was developed with Html, Sass, JS",
-        "images": ["wiw1.png","wiw2.png"],
+        "images": [
+          "wiw1.png",
+          "wiw2.png"
+        ],
         "size": "470",
-        "link":"https://github.com/joseluis-max/Where-in-he-world"
+        "link": "https://github.com/joseluis-max/Where-in-he-world"
       },
       {
-        "title":"Space Tourism",
+        "title": "Space Tourism",
         "description": "This page web was a fronted mentor challenger for practice html, css(sass) and JS. Show information about Nasa astronaunt, some planets, some launch vehicles. It's responsive design in the mayor of movil devices.",
-        "images": ["st1.png","st2.png"],
+        "images": [
+          "st1.png",
+          "st2.png"
+        ],
         "size": "470",
         "link": "https://github.com/joseluis-max/space-tourism-multi-page"
       },
       {
-        "title":"Rock Papper and Scissors",
+        "title": "Rock Papper and Scissors",
         "description": "This web page emulate the rock papper and scissors game. Has two mode: classic -> rock, papper, and scissors and bonus -> rock, papper, scissors, lizard and spock. Was make with React, sass.",
-        "images": ["rps1.png","rps2.png"],
+        "images": [
+          "rps1.png",
+          "rps2.png"
+        ],
         "size": "470",
         "link": "https://github.com/joseluis-max/rock-paper-scissors"
       },
