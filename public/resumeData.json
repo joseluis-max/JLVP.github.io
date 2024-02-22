@@ -51,7 +51,7 @@
       {
         "company": "Soluciones Plan B",
         "title": "Software Engineer",
-        "years": "November 2022 - Currently 2024",
+        "years": "November 2022 - February 2024",
         "descriptions": [
           "Design, development and maintenance of web/desktop (electron) applications, ensuring high-quality performance and user satisfaction.",
           "Functioned as a Cloud operator/administrator, managing and optimizing cloud resources for efficient application deployment.",
@@ -112,6 +112,36 @@
   },
   "portfolio": {
     "check": [
+      {
+        "title": "MaxWell Parking System",
+        "description": "This is a parking system that allows you to manage the parking time (day, montly, personalized tariffs), billings, reports, and hardware parking (printers, bar, traffic ligth, spaces counter)  it has a web application and a desktop application. This project was developed with React, Node.js, Electron, MongoDB, Google Cloud",
+        "images": [
+          "m2.png",
+          "m4.png"
+        ],
+        "size": "470",
+        "link": "https://github.com/joseluis-max/"
+      },
+      {
+        "title": "Curie Restaurant System",
+        "description": "This is a restaurant system that allows you to manage the orders of a restaurant, billings, inventory, and reports is a desktop application. This project was developed with React, Node.js, Electron, MongoDB.",
+        "images": [
+          "c2.png",
+          "c7.png"
+        ],
+        "size": "470",
+        "link": "https://github.com/joseluis-max/"
+      },
+      {
+        "title": "AG Management System",
+        "description": "Software for a construction company, has accounting, purchasing, inventory, billing, accounting modules for mobile and desktop devices and hosted in the cloud. This project was developed with React, Node.js, Electron, PostgreSQL, flutter, talwindcss.",
+        "images": [
+          "ag2.png",
+          "ag3.png"
+        ],
+        "size": "150",
+        "link": "https://github.com/joseluis-max/"
+      },
       {
         "title": "Where in the world ?",
         "description": "This is a friendly responsive website that allows you find information about any country in the world. This project was developed with Html, Sass, JS",
